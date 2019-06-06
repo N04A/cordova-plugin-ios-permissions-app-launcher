@@ -7,7 +7,7 @@ File inputs suddenly didn't work in iOS applications created using PhoneGap Buil
 # Usage
 Include this plugin in your config.xml:
 ```
-<plugin name="cordova-plugin-ios-permissions" spec="https://github.com/MBuchalik/cordova-plugin-ios-permissions.git#v1.1.1" source="git" />
+<plugin name="cordova-plugin-ios-permissions-app-launcher" spec="https://github.com/N04A/cordova-plugin-ios-permissions-app-launcher.git#v1.1.1" source="git" />
 ```
 
 # Note

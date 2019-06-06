@@ -1,0 +1,18 @@
+{
+	"name": "cordova-plugin-ios-permissions-app-launcher",
+	"version": "1.1.1",
+	"description": "Experimental plugin to prevent crashes in iOS apps due to missing entries in the plist file.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/N04A/cordova-plugin-ios-permissions-app-launcher.git"
+	},
+	"keywords": [
+		"cordova"
+	],
+	"author": "Martin Buchalik",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/N04A/cordova-plugin-ios-permissions-app-launcher/issues"
+	},
+	"homepage": "https://github.com/N04A/cordova-plugin-ios-permissions-app-launcher#readme"
+}
